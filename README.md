@@ -25,7 +25,7 @@ pip install rich
 
 ## Usage
 
-```python
+```cmd
 import foobar
 
 # returns 'words'
