@@ -12,3 +12,31 @@ This is the data that gest collected by the sript and given to you:
 - Total
 - Made Money
 - Rank
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+
+```bash
+pip install datetime
+pip install requests
+pip install time
+pip install rich
+pip install json
+pip install os
+```
+
+## Usage
+
+```python
+import foobar
+
+# returns 'words'
+foobar.pluralize('word')
+
+# returns 'geese'
+foobar.pluralize('goose')
+
+# returns 'phenomenon'
+foobar.singularize('phenomena')
+```
