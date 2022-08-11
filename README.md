@@ -20,10 +20,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 ```python
 pip install datetime
 pip install requests
-pip install time
 pip install rich
-pip install json
-pip install os
 ```
 
 ## Usage
