@@ -17,7 +17,7 @@ This is the data that gest collected by the sript and given to you:
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
-```bash
+```python
 pip install datetime
 pip install requests
 pip install time
