@@ -4,14 +4,17 @@ Lets you track your progress while you are playing the game
 ‼ This is not an auto-work bot and does not give any advantages while playing the game.
 
 ##User Track
+
 Tracks the stats of a user
 
 
 ##When to Work Progress Bar
+
 Tells you when you need to work
 
 
 ##Leaderboard Track
+
 Tracks the Leaderboard of a server
 
 
