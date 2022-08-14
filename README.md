@@ -6,7 +6,7 @@ Lets you track your progress while you are playing the game
 ## User Track
 
 Tracks the stats of a user
-<img src="img/ds_id.gif">
+<img src="img/copy-id.gif">
 
 ## When to Work Progress Bar
 
