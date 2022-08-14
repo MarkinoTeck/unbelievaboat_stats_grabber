@@ -1,19 +1,21 @@
 # Unbelievaboat Stats Grabber
 
 Lets you track your progress while you are playing the game
+‼ This is not an auto-work bot and does not give any advantages while playing the game.
+
+##User Track
+Tracks the stats of a user
 
 
-## Data that gets collected
+##When to Work Progress Bar
+Tells you when you need to work
 
-This is the data that gest collected by the sript and given to you:
 
-- Cash
-- Bank
-- Total
-- Made Money
-- Rank
+##Leaderboard Track
+Tracks the Leaderboard of a server
 
-## Installation
+
+##Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install libraries.
 
