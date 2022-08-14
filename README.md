@@ -12,7 +12,7 @@ Tracks the stats of a user | You can get the discord id [Here](https://github.co
 
 ## When to Work Progress Bar
 
-Tells you when you need to work
+Tells you when you need to work, still not public
 
 
 ## Leaderboard Track
