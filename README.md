@@ -5,7 +5,7 @@ Lets you track your progress while you are playing the game
 
 ## User Track
 
-Tracks the stats of a user | You can get the discord id [Here](https://github.com/MarkinoTeck/unbelievaboat_stats_grabber/blob/main/README.md#how-to-get-discord-id)
+Tracks the stats of a user | You can get the discord id after the installation progress section
 
 <img src="img/track.gif">
 
