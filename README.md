@@ -3,22 +3,22 @@
 Lets you track your progress while you are playing the game
 ‼ This does not give any advantages while playing the game.
 
-##User Track
+## User Track
 
 Tracks the stats of a user
 <img src="img/track">
 
-##When to Work Progress Bar
+## When to Work Progress Bar
 
 Tells you when you need to work
 
 
-##Leaderboard Track
+## Leaderboard Track
 
 Tracks the Leaderboard of a server
 
 
-##Installation
+## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install libraries.
 
