@@ -17,7 +17,7 @@ Tells you when you need to work, still not public
 
 ## Leaderboard Track
 
-Tracks the Leaderboard of a server
+Tracks the Leaderboard of a server, to use open the lb_track.py file
 
 
 ## Installation
