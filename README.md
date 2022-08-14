@@ -1,7 +1,7 @@
 # Unbelievaboat Stats Grabber
 
 Lets you track your progress while you are playing the game
-‼ This is not an auto-work bot and does not give any advantages while playing the game.
+‼ This does not give any advantages while playing the game.
 
 ##User Track
 
