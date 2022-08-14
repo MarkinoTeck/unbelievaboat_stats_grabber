@@ -5,7 +5,7 @@ Lets you track your progress while you are playing the game
 
 ## User Track
 
-Tracks the stats of a user | You can get the discord id after the installation progress section
+Tracks the stats of a user | How to get the discord id after the installation progress section
 
 <img src="img/track.gif">
 
