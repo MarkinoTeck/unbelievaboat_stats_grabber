@@ -12,15 +12,17 @@ if os.path.exists(os.getcwd() + "/config.json"):
     with open("./config.json") as f:
         configData = json.load(f)
 else:
-    configTemplate = {"server": 947666187653885982, "user": 722452978870779934, "clears": True}
+    configTemplate = {"server": 947666187653885982, "clears": True}
     with open(os.getcwd() + "/config.json", "w+") as f:
         json.dump(configTemplate, f)
 
 
 #get var from the external file
 server = configData["server"]
-user = configData["user"]
 clears = configData["clears"]
+print("User ID: ")
+user = input()
+
 
 #vars ecc
 _stats = Table(title="Stats")
