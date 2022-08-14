@@ -5,8 +5,9 @@ Lets you track your progress while you are playing the game
 
 ## User Track
 
-Tracks the stats of a user
+Tracks the stats of a user | You can get the discord id [Here](https://github.com/MarkinoTeck/unbelievaboat_stats_grabber/blob/main/README.md#how-to-get-discord-id)
 <img src="img/track.gif">
+
 
 ## When to Work Progress Bar
 
@@ -27,6 +28,8 @@ pip install datetime
 pip install requests
 pip install rich
 ```
+## How to get discord id
+<img src="img/copy-id.gif">
 
 Download the main.py file and run it no a folder, it will generate a file colled confing.json. 
 In the generated file you can set the discord id to config the script.
